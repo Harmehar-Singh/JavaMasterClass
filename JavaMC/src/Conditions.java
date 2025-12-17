@@ -7,6 +7,7 @@ public class Conditions {
         }
         else{
             System.out.println("You are an alien!");
+
         }
     }
 }
